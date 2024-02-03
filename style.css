@@ -1,0 +1,49 @@
+.nav-list-link{
+    font-family: Playfair Display;
+font-size: 14px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+color: #7D7D7D;
+}
+.photo-list-text{
+    font-family: Playfair Display;
+font-size: 14px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+color: #626262;
+}
+.photo-list-title{
+    font-family: Playfair Display;
+font-size: 30px;
+font-weight: 400;
+line-height: 40px;
+letter-spacing: 0em;
+text-align: left;
+color: #626262;
+}
+a{
+    text-decoration: none;
+
+}
+ul{
+    list-style: none;
+}
+.nav-list{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.photo-list{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 50px;
+}
+button{
+    display: block;
+    margin: 0 auto;
+}
